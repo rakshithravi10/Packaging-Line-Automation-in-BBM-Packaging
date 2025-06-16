@@ -30,11 +30,13 @@ This project focused on designing a conceptual automation solution to improve pr
 ### 🛠️ Strapping Mechanism & Process
 - Strapping machine shown in operational phase:
 ![Strapping Machine](images/Strapping%20Machine.png)
-- CAD setup for strapping + carton assembly:
+- CAD setup for strapping + carton assembly line:
 ![Strapping Machine for Assembly](images/Strapping%20Machine%20for%20Assembly.png)
 
 ### 📊 Signal Simulation (MATLAB)
 Sine wave modeling, discrete sampling, and FFT visualization.
 ![Sensor Signal Analysis](images/sensor%20signal%20analysis.png)
 
+Click below to view the simulation of the packaging workflow:
+👉 [Watch Simulation](videos/blender_simulation.mp4)
 
