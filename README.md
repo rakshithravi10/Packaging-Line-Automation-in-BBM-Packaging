@@ -37,10 +37,4 @@ This project focused on designing a conceptual automation solution to improve pr
 Sine wave modeling, discrete sampling, and FFT visualization.
 ![Sensor Signal Analysis](images/sensor%20signal%20analysis.png)
 
-## 🎥 Blender Simulation
-
-Preview of the strapping machine simulation created in Blender:
-
-👉 [Click to watch the simulation](videos/strapping%20machine%20001.mp4)
-
 
