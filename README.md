@@ -20,5 +20,21 @@ This project focused on designing a conceptual automation solution to improve pr
 - Identified multiple areas for automation-based productivity boosts
 
 ## 📷 Screenshots & Design Visuals
-*(To be added in the `images/` folder after upload)*
+
+### 🧩 Final CAD Layout
+![Final Assembly](images/Final%20Assembly.png)
+
+### 🤖 Sensor-Based Actuator Design
+![Sensor Based Actuator](images/Sensor%20based%20actuator.png)
+
+### 🛠️ Strapping Mechanism & Process
+- Strapping machine shown in operational phase:
+![Strapping Machine](images/Strapping%20Machine.png)
+- CAD setup for strapping + carton assembly:
+![Strapping Machine for Assembly](images/Strapping%20Machine%20for%20Assembly.png)
+
+### 📊 Signal Simulation (MATLAB)
+Sine wave modeling, discrete sampling, and FFT visualization.
+![Sensor Signal Analysis](images/sensor%20signal%20analysis.png)
+
 
